@@ -18,7 +18,7 @@
         "angular-sanitize": "^1.6.5",
         "animate.css": "^3.5.2",
         "bootstrap": "^3.3.7",
-        "bower": "^1.8.0",
+        "bower": "^1.8.8",
         "compare-versions": "^3.0.1",
         "font-awesome": "^4.7.0",
         "get-package-readme": "^1.2.0",
